@@ -1,2 +1,5 @@
 soc-redditHyperlinks-title.tsv filter=lfs diff=lfs merge=lfs -text
 sx-superuser.txt.gz filter=lfs diff=lfs merge=lfs -text
+ERC20-stablecoins-SplitArchive.z01 filter=lfs diff=lfs merge=lfs -text
+ERC20-stablecoins-SplitArchive.z02 filter=lfs diff=lfs merge=lfs -text
+ERC20-stablecoins-SplitArchive.zip filter=lfs diff=lfs merge=lfs -text
